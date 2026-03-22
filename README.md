@@ -80,7 +80,14 @@
 ### 🚅 [Shinkansen Travel Experience Prediction](https://github.com/Shankdhar06/shinkansen-travel-predictor)
 > 🥉 **3rd place out of ~2,000 participants** — 95.60% accuracy using Bagging + Random Forest ensemble.
 
-`Python` `Gradient Boosting` `Feature Engineering` `Classification`
+`Python` `Random Forest` `Bagging Classifier` `Feature Engineering` `GridSearchCV`
+
+---
+
+### 🗄️ [SQL Order Management Analysis — Retail](https://github.com/Shankdhar06/sql-order-management-analysis)
+> Advanced MySQL project analysing an order management system for a retail chain — 10 business queries covering multi-table JOINs, nested CASE statements, subqueries and aggregate functions.
+
+`MySQL` `Advanced SQL` `JOINs` `Subqueries` `CASE Statements` `Aggregate Functions`
 
 ---
 
@@ -93,6 +100,12 @@
 ⏳ BigQuery + Modern Data Stack
 ⏳ Git & GitHub best practices
 ```
+
+---
+
+## 📊 GitHub Stats
+
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shankdhar06&show_icons=true&theme=default&hide_border=true)
 
 ---
 
