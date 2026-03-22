@@ -77,8 +77,8 @@
 
 ---
 
-### 🚅 Shinkansen Travel Experience Prediction *(Academic)*
-> Predicted passenger satisfaction using Gradient Boosting — achieved **95.6% accuracy**.
+### 🚅 [Shinkansen Travel Experience Prediction](https://github.com/Shankdhar06/shinkansen-travel-predictor)
+> 🥉 **3rd place out of ~2,000 participants** — 95.60% accuracy using Bagging + Random Forest ensemble.
 
 `Python` `Gradient Boosting` `Feature Engineering` `Classification`
 
