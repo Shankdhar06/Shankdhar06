@@ -96,10 +96,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shankdhar06&show_icons=true&theme=default&hide_border=true)
-
----
-
 > *"8 years of turning data into decisions — now building the engineering skills to do it at a deeper level."*
