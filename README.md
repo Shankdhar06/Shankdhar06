@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav Shankdhar 👋
 
-### Senior Business Intelligence Engineer → Transitioning to Data Science & Analytics Engineering
+### Senior Business Intelligence Engineer → Transitioning to Data Project Manager roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaibhav-shankdhar-0602)
 [![Gmail](https://img.shields.io/badge/Gmail-vaibhav.shankdhar0602@gmail.com-red?style=flat&logo=gmail)](mailto:vaibhav.shankdhar0602@gmail.com)
